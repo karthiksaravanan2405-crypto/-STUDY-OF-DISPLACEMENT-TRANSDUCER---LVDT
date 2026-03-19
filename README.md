@@ -27,7 +27,6 @@ voltages are noted down.
 7. The screw gauge is adjusted for maximum displacement and then stopped.
 8. A graph between displacement and output voltage is drawn.
 
-
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
 
 RESULT:
